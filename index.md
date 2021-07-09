@@ -1,37 +1,26 @@
-## Welcome to GitHub Pages
+## Welcome to my directory page
 
-You can use the [editor on GitHub](https://github.com/angeloboustany/YoutubeInstaller/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### About
+Using this Repo you will be able to download Videos And Audios from Youtube, safely to your Computer.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Features
+* Download YouTube Videos
+* Download YouTube Playlist
+* Download YouTube Videos Audio Into MP3
+* Download Youtube Videos Audio Into MP4
+* Download Youtube Playlist Audio
 
-### Markdown
+### Dependencies
+To run this program you need the following libraries installed : 
+1. [pytube](https://pytube.io/en/latest/)
+2. [moviepy](https://pypi.org/project/moviepy/)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Note
+**Use this code at your own risk, downloading videos from Youtube is illegal and you may face legal issues, be carefull.**
 
-```markdown
-Syntax highlighted code block
+**I am not responsible for your actions!**
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/angeloboustany/YoutubeInstaller/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+*leave me an email at angeloboustany5@gmail.com*
